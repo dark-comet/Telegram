@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net" modified="2024-08-11T04:41:52.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="6hoOLwyenRE7CbII-MhU" version="24.7.2" type="google">
+  <diagram name="Page-1" id="mI2_YPixoCHHbOqxPmzI">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t9bic-483aLwWyZSkI0J-9" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="10" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="t9bic-483aLwWyZSkI0J-9">
+          <mxGeometry width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-3" value="&lt;b&gt;telemetryClients/*&lt;br style=&quot;&quot;&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Telemetry Clients&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="t9bic-483aLwWyZSkI0J-9">
+          <mxGeometry x="20" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9bic-483aLwWyZSkI0J-2" target="t9bic-483aLwWyZSkI0J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-13" value="Depends on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="t9bic-483aLwWyZSkI0J-12">
+          <mxGeometry x="0.0039" y="4" relative="1" as="geometry">
+            <mxPoint x="15" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-2" value="&lt;div&gt;telemetryServer&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Distributed tracing&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;i&gt;&lt;font color=&quot;#0000ff&quot;&gt;kotlin, ktor&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-7" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;javaModels&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#808080&quot;&gt;Shared Models&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#808080&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-weight: normal;&quot;&gt;&lt;i style=&quot;&quot;&gt;java&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9bic-483aLwWyZSkI0J-5" target="t9bic-483aLwWyZSkI0J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-11" value="Depends on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="t9bic-483aLwWyZSkI0J-10">
+          <mxGeometry x="-0.0074" y="1" relative="1" as="geometry">
+            <mxPoint x="39" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-5" value="java" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-6" value="csharp" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-18" value="&lt;div&gt;&lt;b&gt;telemetryViewers/*&lt;/b&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#808080&quot;&gt;Event Data Viewers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9bic-483aLwWyZSkI0J-19" target="t9bic-483aLwWyZSkI0J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-19" value="&lt;b&gt;desktop&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font color=&quot;#0000ff&quot;&gt;java, javafx&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="350" width="86" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-20" value="&lt;b&gt;web&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;planned, tbd&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="17" y="350" width="86" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="t9bic-483aLwWyZSkI0J-22" value="Depends on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="199.99999999999994" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
