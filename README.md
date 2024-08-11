@@ -1,4 +1,7 @@
 # Telegram
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3c546264d02479e85dae63613034c54)](https://app.codacy.com/gh/dark-comet/Telegram?utm_source=github.com&utm_medium=referral&utm_content=dark-comet/Telegram&utm_campaign=Badge_Grade)
+
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat) 
 
