@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Telegram.iml" filepath="$PROJECT_DIR$/.idea/Telegram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/Telegram.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/Telegram.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/Telegram.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/Telegram.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/Telegram.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/Telegram.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaModels/Telegram.javaModels.iml" filepath="$PROJECT_DIR$/.idea/modules/javaModels/Telegram.javaModels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaModels/Telegram.javaModels.main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaModels/Telegram.javaModels.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaModels/Telegram.javaModels.test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaModels/Telegram.javaModels.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryClients/Telegram.telemetryClients.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryClients/Telegram.telemetryClients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryClients/csharp/Telegram.telemetryClients.csharp.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryClients/csharp/Telegram.telemetryClients.csharp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryClients/java/Telegram.telemetryClients.java.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryClients/java/Telegram.telemetryClients.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryClients/java/Telegram.telemetryClients.java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryClients/java/Telegram.telemetryClients.java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryClients/java/Telegram.telemetryClients.java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryClients/java/Telegram.telemetryClients.java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryServer/Telegram.telemetryServer.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryServer/Telegram.telemetryServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryViewers/Telegram.telemetryViewers.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryViewers/Telegram.telemetryViewers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryViewers/desktop/Telegram.telemetryViewers.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryViewers/desktop/Telegram.telemetryViewers.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryViewers/desktop/Telegram.telemetryViewers.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryViewers/desktop/Telegram.telemetryViewers.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryViewers/desktop/Telegram.telemetryViewers.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryViewers/desktop/Telegram.telemetryViewers.desktop.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telemetryViewers/web/Telegram.telemetryViewers.web.iml" filepath="$PROJECT_DIR$/.idea/modules/telemetryViewers/web/Telegram.telemetryViewers.web.iml" />
+    </modules>
+  </component>
+</project>
